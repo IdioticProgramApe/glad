@@ -1,2 +1,2 @@
 # glad
-files are generated from: https://glad.dav1d.de/, depends on what you needs, use it with caution
+files are generated from: https://glad.dav1d.de/, depends on what you need from GL, use it with caution
